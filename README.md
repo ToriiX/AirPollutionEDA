@@ -1,6 +1,7 @@
 # Exploratory Analysis of Global Air Pollution Dataset (WHO)
 
-image.png
+![Uploading image.png…]()
+
 
 ### With every breath we take, we suck in tiny particles that can damage our lungs, hearts, and brains and cause a host of other health problems.
 
