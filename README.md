@@ -19,3 +19,5 @@
 #### Temporal Coverage:
 
 #### The temporal coverage represents the number of days per year covered by measurements or any alternative qualification as provided in the original sources. If data from several monitoring stations in one city were available, their average temporal coverage was used for the city average.
+
+See whole project and code: https://github.com/ToriiX/AirPollutionEDA/blob/main/GlobalAirPollution-WHO.ipynb
