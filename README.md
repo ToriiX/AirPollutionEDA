@@ -17,4 +17,4 @@
 - The 10 cities which had the highest average concentrations of the different pollutants
 
 
-  ### See project and code: https://github.com/ToriiX/AirPollutionEDA/blob/main/Global_Air_Pollution_WHO.ipynb
+  ### See project and code: https://github.com/ToriiX/AirPollutionEDA/blob/main/global_air_pollution(WHO).ipynb
